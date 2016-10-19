@@ -1,10 +1,10 @@
 # Basic
-title: 何宝
+title: 吴华超
 subtitle: 重庆科技学院
-description: 动态网站开发中
-creator: <a href="http://hebaochina.top">@hebao123</a>
+description: 
+creator: <a href="http://wuhuachao.top">@wuhuachao</a>
 
-url: "http://hebaochina.top"
+url: "http://wuhuachao.top"
 
 permalink: /:year/:month/:title/
 
@@ -16,13 +16,13 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    {title: 美, description: 博客}
+    title: 吴
 
 # Navigation buttons in the front page.s
 nav:
-    - {title: 好, description: 检索, url: /tags}     
-    - {title: 回, description: /tags}      
-    - {title: 忆, description: archive}   
+    - {title: 华, description: Team博客}     
+    - {title: 超, description: tags}      
+    #- {title: 所有文章, description: archive}   
     
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
@@ -36,16 +36,16 @@ comment:
 
 # Social
 social:
-    weibo: 5252172579 
-    wechat: http://weixin.sogou.com/weixin?type=1&query=gh_d12e9f404e2c&ie=utf8&_sug_=n&_sug_type_=
-    
-    mail: 879815165@qq.com
+    weibo: 2359401703
+    github: 1334133490
+    # twitter: 
+    mail: 1334133490@qq.com
 
 # 百度统计
 baidu:
-    id: 76bd26bd1505edd9d6013fda8889ad58
+    id:   
 
 # Google Analytics
 ga:
-    id:   
+    id:    
     host: auto  
